@@ -20,9 +20,8 @@ include("./template/header.html");
     <div id="main-content-aboutus" class="grid-items middle">
         <div class="dl" >
             <p>
-                this is the first introduction this is the first introduction
-                this is the first introduction this is the first introduction
-                this is the first introduction this is the first introduction
+                Hi my name is Dylan I am 21 years old and i am currently in the computer information systems diploma in okanagan college
+                Kelowna. Some of my hobbies include watching hockey and playing board games. 
             
             </p></div>
         <hr/>
